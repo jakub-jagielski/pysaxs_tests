@@ -1,0 +1,51 @@
+Nazwa,Impact_Factor,Koszt_PB,Wymagania,Nagroda_PZ,Specjalny_Bonus,Opis
+Nature,10,15,Reputacja 4+,5,Prestiż międzynarodowy (+1 punkt Reputacji),"Najsłynniejsze czasopismo naukowe świata, publikacja tutaj to szczyt marzeń każdego badacza."
+Science,9,14,Reputacja 4+,5,"Dostęp do konferencji (dobierz 3 karty, weź 1 do ręki, resztę odrzuć)","Amerykański odpowiednik Nature, równie prestiżowy i wpływowy w świecie nauki."
+Cell,8,12,Min. 1 badanie biologiczne ukończone,4,Przełom medyczny (+2K za każde przyszłe badanie biologiczne),Wiodące czasopismo w naukach o życiu i medycynie.
+Physical Review Letters,8,12,Min. 1 badanie fizyczne ukończone,4,Współpraca fizyczna (+1 heks przy badaniach fizycznych),Najważniejsze czasopismo w fizyce teoretycznej i eksperymentalnej.
+Journal of the American Chemical Society,7,10,Min. 1 badanie chemiczne ukończone,4,Innowacje chemiczne (+2K za każde przyszłe badanie chemiczne),Flagowe czasopismo Amerykańskiego Towarzystwa Chemicznego.
+The Lancet,8,13,Min. 2 badania biologiczne ukończone,4,Autorytet medyczny (+2 punkty Reputacji),Najbardziej szanowane czasopismo medyczne na świecie.
+Nature Physics,7,9,Min. 1 profesor fizyk,3,Ekspertyza fizyczna (+1 heks przy badaniach fizycznych),Specjalistyczne czasopismo Nature poświęcone fizyce.
+Nature Chemistry,7,9,Min. 1 profesor chemik,3,Ekspertyza chemiczna (+1 heks przy badaniach chemicznych),Specjalistyczne czasopismo Nature poświęcone chemii.
+Nature Biology,7,9,Min. 1 profesor biolog,3,Ekspertyza biologiczna (+1 heks przy badaniach biologicznych),Specjalistyczne czasopismo Nature poświęcone biologii.
+PNAS,6,8,Reputacja 3+,3,"Akademicka sieć (+1 karta z dowolnej talii co rundę przez 3 rundy)",Proceedings of the National Academy of Sciences USA.
+Scientific Reports,5,Brak wymagań,2,2,Open Access (inne czasopisma kosztują 1K mniej),Czasopismo Open Access z grupy Nature.
+PLoS ONE,4,Brak wymagań,2,2,Szybka publikacja (+1 PA w rundzie publikacji),Pionier ruchu Open Access w nauce.
+New England Journal of Medicine,8,Min. 2 badania biologiczne + Min. Reputacja 4,4,Przełom kliniczny (+3 punkty Reputacji),Najważniejsze czasopismo medyczne w praktyce klinicznej.,
+Annual Review of Physics,6,Min. 2 publikacje fizyczne,3,Przegląd literatury (+2 PB za każdą publikację),Prestiżowe czasopismo przeglądowe w fizyce.,
+Chemical Reviews,7,Min. 2 publikacje chemiczne,3,Synteza wiedzy (+2 PB za każdą publikację),Wiodące czasopismo przeglądowe w chemii.,
+Nature Reviews Biology,6,Min. 2 publikacje biologiczne,3,Perspektywy biologiczne (+2 PB za każdą publikację),Czasopismo przeglądowe z grupy Nature.,
+IEEE Transactions,5,Min. 1 badanie fizyczne,2,2,Aplikacje techniczne (+2K za komercjalizację),Wiodące czasopismo w technologiach informatycznych.
+Angewandte Chemie,6,Min. 1 profesor chemik,3,Innowacje niemieckie (+1 heks przy badaniach chemicznych),Międzynarodowe czasopismo chemiczne z Niemiec.,
+Journal of Biological Chemistry,5,Min. 1 doktor biolog,2,2,Podstawy biochemii (+1 PB przy badaniach biologicznych),Klasyczne czasopismo biochemiczne.
+Physical Review,5,Min. 1 doktor fizyk,2,2,Podstawy fizyki (+1 PB przy badaniach fizycznych),Tradycyjne czasopismo fizyczne amerykańskie.
+European Journal of Chemistry,4,Brak wymagań,2,2,Współpraca europejska (+1 heks przy konsorcjach),Czasopismo promujące współpracę naukową w Europie.
+Bioscience Reports,3,Brak wymagań,1,1,Młoda kariera (+1K za każdego doktoranta),Czasopismo wspierające młodych naukowców w biologii.
+Physics Today,3,Brak wymagań,1,1,Popularyzacja (+1 punkt Reputacji),Czasopismo popularnonaukowe dla fizyków.
+Chemistry World,3,Brak wymagań,1,1,Chemiczny świat (+1 punkt Reputacji),Magazyn chemiczny Royal Society of Chemistry.
+Science Daily,2,Brak wymagań,1,Codzienność nauki (dobierz kartę),Portal informacyjny o najnowszych odkryciach.,
+Arxiv Preprint,1,Brak wymagań,1,Szybka dystrybucja (+1 PA przy publikacji),Serwer preprintów dla szybkiej wymiany wyników.,
+Local Science Journal,1,Brak wymagań,1,Regionalna sieć (+1K za każdego naukowca z lokalnego rynku),Czasopismo lokalnej społeczności naukowej.,
+International Collaboration,4,Członkostwo w konsorcjum,2,2,Międzynarodówka (+1 heks przy wszystkich badaniach),Czasopismo promujące współpracę międzynarodową.
+Breakthrough Discoveries,6,Min. 3 ukończone badania,3,3,Seria przełomów (+2 PZ za każde kolejne badanie w tej rundzie),Czasopismo dla najbardziej innowacyjnych odkryć.
+Ethics in Science,3,Reputacja 5+,2,Etyczny autorytet (+2 punkty Reputacji),Czasopismo poświęcone etyce w nauce.,
+Quantum Journal,5,Min. 1 badanie fizyczne + Min. profesor fizyk,3,3,Rewolucja kwantowa (+3 heks przy następnym badaniu fizycznym),Czasopismo poświęcone technologiom kwantowym.
+Synthetic Biology,5,Min. 1 badanie biologiczne + Min. profesor biolog,3,3,Biologia syntetyczna (+3 heks przy następnym badaniu biologicznym),Czasopismo o projektowaniu nowych form życia.
+Green Chemistry,4,Min. 1 badanie chemiczne + Min. Reputacja 3,2,Chemia zielona (+1 punkt Reputacji + 2K),Czasopismo promujące zrównoważoną chemię.,
+AI & Robotics,5,Min. 1 badanie fizyczne,2,Przyszłość technologii (+2K za każde badanie fizyczne),Czasopismo o sztucznej inteligencji i robotyce.,
+Medical Breakthrough,6,Min. 2 badania biologiczne,3,3,Przełom medyczny (+5K za każde ukończone badanie biologiczne),Czasopismo o rewolucyjnych odkryciach medycznych.
+Space Science,4,Min. 1 badanie fizyczne,2,Eksploracja kosmosu (+3K za członkostwo w konsorcjach),Czasopismo poświęcone badaniom kosmicznym.,
+Nanotechnology Today,4,Min. 1 badanie chemiczne,2,Nanoskala (+2 heks przy badaniach chemicznych w następnej rundzie),Czasopismo o nanotechnologiach.,
+Interdisciplinary Science,5,Naukowcy z 2 dziedzin,2,2,Interdyscyplinarność (+1 heks przy badaniach z różnych dziedzin),Czasopismo promujące łączenie dyscyplin.
+Young Scientist Review,2,Min. 2 doktorantów,1,Młoda krew (+2K za każdego nowo zatrudnionego doktoranta),Czasopismo dla początkujących naukowców.,
+Corporate Research,3,Min. 5K inwestycji własnych,2,2,Komercjalizacja (+3K za każde przyszłe ukończone badanie),Czasopismo o badaniach korporacyjnych.
+Open Science,3,Reputacja 3+,2,2,Otwarta nauka (+1 karta co rundę przez 2 rundy),Czasopismo promujące otwarte publikowanie.
+Crisis Science,4,Publikacja podczas kryzysu,2,2,Nauka w kryzysie (+3 punkty Reputacji),Czasopismo o roli nauki w trudnych czasach.
+Future Horizons,5,Min. 4 ukończone badania,3,3,Wizje przyszłości (+1 karta co rundę do końca gry),Czasopismo o przyszłości nauki i technologii.
+Science & Society,3,Reputacja 4+,2,2,Społeczny wpływ (+1 punkt Reputacji za każdą publikację),Czasopismo o relacjach nauki i społeczeństwa.
+Experimental Methods,2,Min. 1 doktor,1,Metodologia (+1 PB przy wszystkich badaniach w następnej rundzie),Czasopismo o metodach badawczych.,
+Innovation Quarterly,4,Min. 1 ukończone badanie,2,2,Innowacyjność (+2K za każde nowe badanie rozpoczęte w tej rundzie),Czasopismo o innowacjach i kreatywności.
+Global Science,4,Członkostwo w 2 konsorcjach,2,2,Globalna perspektywa (+2 heks przy konsorcjach),Czasopismo o międzynarodowej współpracy.
+Scientific Excellence,6,Reputacja 6+,4,Doskonałość naukowa (+1 punkt do wszystkich przyszłych publikacji),Czasopismo dla absolutnej elity naukowej.,
+Legacy Publications,7,Min. 6 publikacji,4,Dziedzictwo naukowe (+2 PZ za każdą przyszłą publikację),Czasopismo dla naukowców o ugruntowanej pozycji.,
+The Ultimate Journal,8,Min. 5 ukończonych badań + Min. Reputacja 7,5,Szczyt kariery (+3 punkty Reputacji + 5K),Najwyżej cenione czasopismo dla legend nauki.,

@@ -1,0 +1,61 @@
+Nazwa,Dziedzina,Mapa_Heksagonalna,Nagroda_Podstawowa,Nagroda_Dodatkowa,Opis
+Bozon Higgsa,Fizyka,"START(0,0)->[(1,0)->(2,0)->(3,0)END | (1,1)->(2,1)BONUS(+2PB)]","4 PB, 2 PZ",Publikacja w Nature (+3 PZ),Poszukiwanie cząstki boga w akceleratorze
+Algorytm Deep Learning,Fizyka,"START(0,0)->[(1,0)->(2,0)END | (0,1)->(1,1)BONUS(+1PB)]","3 PB, 2 PZ",Sztuczna inteligencja (+1K za każdą publikację w przyszłości),Stworzenie sieci neuronowej nowej generacji
+Kwantowa Kryptografia,Fizyka,"START(0,0)->[(1,0)->(2,0)END | (0,1)->(1,1)BONUS(+1PZ)]","2 PB, 3 PZ",Dostęp do grantów rządowych,Niezniszczalny system szyfrowania kwantowego
+Teoria Strun,Fizyka,"START(0,0)->[(1,0)->(2,0)->(3,0)->(4,0)END | (1,1)->(2,1)BONUS(+2PB) | (0,1)->(1,2)BONUS(+1PZ)]","6 PB, 3 PZ",Dostęp do Wielkiego Projektu Uniwersum,Unifikacja wszystkich sił fizycznych
+Fusion Reactor,Fizyka,"START(0,0)->[(1,0)->(2,0)->(3,0)END | (1,1)->(2,1)BONUS(+3PB) | (0,1)->(1,2)->(2,2)BONUS(+1PZ)]","5 PB, 4 PZ",10K natychmiast + dostęp do energii,Reaktor fuzji kontrolowanej
+Akcelerator Cząstek,Fizyka,"START(0,0)->[(0,1)->(1,1)->(2,1)END | (1,0)->(2,0)BONUS(+2PB)]","3 PB, 2 PZ",Akcelerator LHC (+2 heks przy kolejnych badaniach fizycznych),Budowa nowego akceleratora LHC
+Grawitacyjne Fale,Fizyka,"START(0,0)->[(1,0)->(2,0)->(3,0)END | (0,1)BONUS(+1PB)]","4 PB, 3 PZ",Współpraca z LIGO (+5 PZ),Detekcja fal grawitacyjnych Einstein'a
+Superprzewodnik,Fizyka,"START(0,0)->[(1,0)->(2,0)END | (0,1)->(1,1)BONUS(+1PZ)]","2 PB, 2 PZ",Materiał przyszłości (+3K za każde badanie w przyszłości),Materiał o zerowej rezystancji
+Kosmologia Ciemnej Materii,Fizyka,"START(0,0)->[(1,0)->(2,0)->(3,0)END | (0,1)->(0,2)BONUS(+2PB) | (1,1)->(2,2)->(3,3)BONUS(+2PZ)]","5 PB, 4 PZ",Dostęp do teleskopów kosmicznych,Odkrycie natury 95% wszechświata
+Laser Kwantowy,Fizyka,"START(0,0)->[(1,0)->(2,0)END | (0,1)->(1,1)BONUS(+1PB)]","2 PB, 2 PZ",Aplikacje przemysłowe (+4K/rundę),Przełomowy laser o nieskończonej mocy
+Holografia Kwantowa,Fizyka,"START(0,0)->[(1,0)->(2,0)END | (0,1)->(1,1)->(2,1)BONUS(+1PZ)]","3 PB, 2 PZ",Technologia VR (+6K),Trójwymiarowe projekcje rzeczywistości
+Manipulacja Czasu,Fizyka,"START(0,0)->[(1,0)->(2,0)->(3,0)END | (0,1)->(1,1)->(2,1)BONUS(+3PB) | (1,2)->(2,2)->(3,3)BONUS(+3PZ)]","7 PB, 5 PZ",Dodatkowa tura w każdej rundzie,Teoretyczne podstawy podróży w czasie
+Antygrawity Generator,Fizyka,"START(0,0)->[(1,0)->(2,0)->(3,0)END | (0,1)->(1,1)->(2,1)BONUS(+2PB)]","4 PB, 3 PZ",Lotnictwo kosmiczne (+8K),Negacja efektów grawitacji
+Plazma Kontrolowana,Fizyka,"START(0,0)->[(1,0)->(2,0)END | (0,1)BONUS(+1PB)]","3 PB, 2 PZ",Energia dla miast (+5K/rundę),Stabilizacja plazmy wysokotemperaturowej
+Detector Neutrin,Fizyka,"START(0,0)->(0,1)->(0,2)->(1,2)BONUS(+1PZ)->(2,2)->(2,3)END","3 PB, 2 PZ",Monitoring kosmiczny (+2 PZ/rundę),Wychwytywanie nieuchwytnych cząstek
+Teleportacja Kwantowa,Fizyka,"START(0,0)->(1,0)->(1,1)BONUS(+2PB)->(1,2)->(2,2)->(3,2)END","4 PB, 3 PZ",Komunikacja instant (+7K),Natychmiastowy transfer informacji
+Metamateriały,Fizyka,"START(0,0)->(1,0)->(2,0)BONUS(+1PB)->(2,1)->(2,2)END","2 PB, 2 PZ",Niewidzialność (+3 PZ),Materiały o niemożliwych właściwościach
+Komputer Kwantowy,Fizyka,"START(0,0)->(0,1)->(1,1)->(2,1)BONUS(+2PB)->(2,2)->(3,2)->(3,3)END","4 PB, 3 PZ",Łamanie kodów (+10K),Exponencjalna moc obliczeniowa
+Zero Point Energy,Fizyka,"START(0,0)->(1,0)->(2,0)->(3,0)BONUS(+2PB)->(3,1)->(3,2)->(4,2)BONUS(+2PZ)->(5,2)END","6 PB, 4 PZ",Nieskończona energia (+15K),Energia z próżni kwantowej
+Magnetyzm Jednobiegunowy,Fizyka,"START(0,0)->(1,0)->(1,1)->(2,1)BONUS(+1PZ)->(2,0)->(3,0)END","3 PB, 2 PZ",Nowe technologie (+5K),Monopole magnetyczne w laboratorium
+Terapia Genowa,Biologia,"START(0,0)->[(1,0)->(2,0)END | (0,1)->(1,1)BONUS(+1PB)]","3 PB, 2 PZ",Leczenie chorób genetycznych (+4 PZ),Naprawa uszkodzonych genów
+Komórki Macierzyste,Biologia,"START(0,0)->[(1,0)->(2,0)END | (0,1)->(1,1)BONUS(+1PZ)]","2 PB, 2 PZ",Regeneracja organów (+6K),Pluripotencjalne komórki ludzkie
+Edycja Genomu CRISPR,Biologia,"START(0,0)->[(1,0)->(2,0)->(3,0)END | (0,1)->(1,1)->(2,1)BONUS(+2PB)]","4 PB, 3 PZ",Precyzyjna medycyna (+8 PZ),Molekularne nożyce DNA
+Immunoterapia Nowotworów,Biologia,"START(0,0)->[(1,0)->(2,0)->(3,0)END | (0,1)->(1,1)BONUS(+2PB)]","4 PB, 3 PZ",Wyleczenie raka (+10 PZ),Wykorzystanie systemu immunologicznego
+Sztuczne Organy,Biologia,"START(0,0)->[(1,0)->(2,0)END | (0,1)->(1,1)BONUS(+1PB)]","3 PB, 2 PZ",Transplantologie (+5K/rundę),Biodruk funkcjonalnych organów
+Neuroplastyczność,Biologia,"START(0,0)->[(1,0)->(2,0)END | (0,1)BONUS(+1PB)]","3 PB, 2 PZ",Leczenie Alzheimera (+6 PZ),Odnowa połączeń neuronalnych
+Mikrobiom Ludzki,Biologia,"START(0,0)->[(1,0)->(2,0)END | (0,1)->(1,1)BONUS(+1PZ)]","3 PB, 2 PZ",Probiotyki (+3K/rundę),Bakterie symbiotyczne człowieka
+Longevity Research,Biologia,"START(0,0)->[(1,0)->(2,0)->(3,0)->(4,0)END | (0,1)->(1,1)BONUS(+2PB) | (1,2)->(2,2)->(3,2)->(4,3)BONUS(+1PZ)]","5 PB, 3 PZ",Wydłużenie życia (+12 PZ),Mechanizmy biologicznego starzenia
+Fotosynteza Sztuczna,Biologia,"START(0,0)->[(1,0)->(2,0)END | (0,1)BONUS(+1PB)]","2 PB, 2 PZ",Energia solarna (+4K/rundę),Naśladowanie procesów roślinnych
+Bioremediacja,Biologia,"START(0,0)->[(1,0)->(2,0)END | (0,1)->(1,1)BONUS(+1PZ)]","3 PB, 2 PZ",Oczyszczanie środowiska (+3 PZ),Bakterie zjadające zanieczyszczenia
+Mózg w Chmurze,Biologia,"START(0,0)->[(1,0)->(2,0)->(3,0)->(4,0)END | (0,1)->(1,1)BONUS(+3PB) | (1,2)->(2,2)->(3,2)BONUS(+1PZ)]","5 PB, 4 PZ",+20 PZ,Digitalizacja ludzkiego umysłu
+Retrogenezy,Biologia,"START(0,0)->[(1,0)->(2,0)->(3,0)END | (0,1)BONUS(+2PB)]","4 PB, 3 PZ",Wskrzeszenie gatunków (+8 PZ),Przywracanie wymarłych zwierząt
+Bioluminescencja,Biologia,"START(0,0)->[(1,0)->(2,0)END | (0,1)BONUS(+1PB)]","3 PB, 2 PZ",Oświetlenie biologiczne (+2K/rundę),Świecące organizmy użytkowe
+Metamorfoza Kontrolowana,Biologia,"START(0,0)->[(1,0)->(2,0)END | (0,1)->(1,1)BONUS(+1PZ)]","3 PB, 2 PZ",Regeneracja kończyn (+5 PZ),Kierowanie przemianą biologiczną
+Syntetyczna Biologia,Biologia,"START(0,0)->[(1,0)->(2,0)->(3,0)END | (0,1)->(1,1)BONUS(+2PB)]","4 PB, 3 PZ",Organizmy na zamówienie (+9K),Projektowanie nowych form życia
+Hibernacja Ludzka,Biologia,"START(0,0)->[(1,0)->(2,0)END | (0,1)BONUS(+1PB)]","3 PB, 2 PZ",Podróże kosmiczne (+7 PZ),Kontrolowane zawieszenie życia
+Enzymy Przemysłowe,Biologia,"START(0,0)->[(1,0)->(2,0)END | (0,1)BONUS(+1PB)]","3 PB, 2 PZ",Kataliza biologiczna (+3K/rundę),Białka przyspieszające reakcje
+Biokomputery,Biologia,"START(0,0)->[(1,0)->(2,0)END | (0,1)BONUS(+1PZ)]","2 PB, 2 PZ",Obliczenia organiczne (+5K),Przetwarzanie informacji przez komórki
+Tkanka Nerwowa,Biologia,"START(0,0)->[(1,0)->(2,0)->(3,0)END | (0,1)->(1,1)BONUS(+2PB)]","4 PB, 3 PZ",Leczenie paraliżu (+8 PZ),Odrastanie uszkodzonych nerwów
+Ekosystem Zamknięty,Biologia,"START(0,0)->[(1,0)->(2,0)END | (0,1)BONUS(+1PZ)]","3 PB, 2 PZ",Kolonia na Marsie (+6 PZ),Samowystarczalny system życia
+Nanokataliza,Chemia,"START(0,0)->[(1,0)->(2,0)END | (0,1)BONUS(+1PB)]","3 PB, 2 PZ",Przemysł chemiczny (+4K/rundę),Kataliza na poziomie atomowym
+Bateria Kwantowa,Chemia,"START(0,0)->[(1,0)->(2,0)END | (0,1)BONUS(+1PZ)]","2 PB, 2 PZ",Magazynowanie energii (+3K/rundę),Akumulatory o nieskończonej pojemności
+Materiały Samo-naprawcze,Chemia,"START(0,0)->[(1,0)->(2,0)->(3,0)END | (0,1)->(1,1)BONUS(+2PB)]","4 PB, 3 PZ",Infrastruktura wieczna (+7K),Substancje reagujące na uszkodzenia
+Chemia Zielona,Chemia,"START(0,0)->[(1,0)->(2,0)END | (0,1)BONUS(+1PB)]","3 PB, 2 PZ",Eko-przemysł (+2K/rundę),Procesy bez toksycznych odpadów
+Nanoroboty Medyczne,Chemia,"START(0,0)->[(1,0)->(2,0)->(3,0)END | (0,1)BONUS(+2PB)]","4 PB, 3 PZ",Chirurgia molekularna (+9 PZ),Mikroskopijne maszyny leczące
+Oczyszczanie CO2,Chemia,"START(0,0)->[(1,0)->(2,0)END | (0,1)BONUS(+1PB)]","2 PB, 2 PZ",Ratowanie klimatu (+5 PZ),Usuwanie gazów cieplarnianych
+Katalizatory Enzymatyczne,Chemia,"START(0,0)->[(1,0)->(2,0)END | (0,1)BONUS(+1PZ)]","3 PB, 2 PZ",Reakcje selektywne (+3K/rundę),Białka jako katalizatory przemysłowe
+Polimery Inteligentne,Chemia,"START(0,0)->[(1,0)->(2,0)END | (0,1)->(1,1)BONUS(+1PZ)]","3 PB, 2 PZ",Materiały adaptacyjne (+4K),Tworzywa reagujące na środowisko
+Chemia Supramolekularna,Chemia,"START(0,0)->[(1,0)->(2,0)->(3,0)END | (0,1)->(1,1)BONUS(+2PB)]","4 PB, 3 PZ",Nanotechnologia (+6K),Projektowanie układów molekularnych
+Biomimetyczne Materiały,Chemia,"START(0,0)->[(1,0)->(2,0)END | (0,1)BONUS(+1PB)]","2 PB, 2 PZ",Konstrukcje bio-inspired (+3K),Naśladowanie rozwiązań natury
+Chemia Kliknięć,Chemia,"START(0,0)->[(1,0)->(2,0)END | (0,1)BONUS(+1PB)]","3 PB, 2 PZ",Synteza modularna (+2K/rundę),Łączenie cząsteczek jak klocki
+Organo-metalizacja,Chemia,"START(0,0)->[(1,0)->(2,0)END | (0,1)BONUS(+1PZ)]","3 PB, 2 PZ",Nowe własności (+4K),Hybrydowe materiały organiczno-metalowe
+Chemia Przepływowa,Chemia,"START(0,0)->[(1,0)->(2,0)END | (0,1)BONUS(+1PB)]","3 PB, 2 PZ",Automatyzacja (+3K/rundę),Synteza w reaktorach mikrofluidycznych
+Sensory Molekularne,Chemia,"START(0,0)->[(1,0)->(2,0)END | (0,1)->(1,1)BONUS(+1PZ)]","3 PB, 2 PZ",Diagnostyka (+4 PZ),Detekcja na poziomie pojedynczych atomów
+Chemia Fotochemiczna,Chemia,"START(0,0)->[(1,0)->(2,0)END | (0,1)BONUS(+1PB)]","2 PB, 2 PZ",Energia świetlna (+2K/rundę),Reakcje aktywowane światłem
+Elektrochemia Organiczna,Chemia,"START(0,0)->[(1,0)->(2,0)->(3,0)END | (0,1)->(1,1)BONUS(+2PB)]","4 PB, 3 PZ",Baterie organiczne (+5K),Energia z związków węglowych
+Chemia Asymetryczna,Chemia,"START(0,0)->[(1,0)->(2,0)END | (0,1)BONUS(+1PB)]","3 PB, 2 PZ",Farmaceutyki (+4K/rundę),Synteza stereoselektywna leków
+Perowskity Solarne,Chemia,"START(0,0)->[(1,0)->(2,0)END | (0,1)->(1,1)BONUS(+1PZ)]","3 PB, 2 PZ",Ogniwa fotowoltaiczne (+3K/rundę),Rewolucyjne materiały słoneczne
+Chemia Mechanochemiczna,Chemia,"START(0,0)->[(1,0)->(2,0)END | (0,1)->(1,1)BONUS(+1PZ)]","3 PB, 2 PZ",Synteza bezsolventiowa (+2K),Reakcje aktywowane siłą mechaniczną
+MOF Materiały,Chemia,"START(0,0)->[(1,0)->(2,0)END | (0,1)BONUS(+1PB)]","3 PB, 2 PZ",Magazynowanie gazów (+4K),Porowate struktury krystaliczne

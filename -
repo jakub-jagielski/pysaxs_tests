@@ -1,0 +1,42 @@
+# Repository Guidelines
+
+## Project Structure & Module Organization
+- `principia_card_ui.py` — Tkinter GUI entry point and game logic integration.
+- `hex_research_system.py` — hex map parsing, rules, and `HexMapWidget` rendering.
+- `network_game.py` — multiplayer helpers (server/client, messages).
+- `generate_cards.py` — PNG card generator from CSV data.
+- CSV data at repo root: `karty_*.csv` (badania, naukowcy, granty, itd.).
+- Outputs: `cards/` (generated images), assets/prompts in `graphics/` and markdown docs.
+- Docs: `instrukcja.md`, `README_GRA.md`, `GRA_SIECIOWA_INSTRUKCJA.md`, `testing.md`.
+
+## Build, Test, and Development Commands
+- Create venv: `python -m venv .venv` then `.\.venv\Scripts\activate` (Win) or `source .venv/bin/activate` (Unix).
+- Install deps: `pip install pillow pandas` (Tkinter ships with most Python distros).
+- Run GUI: `python principia_card_ui.py`.
+- Generate cards: `python generate_cards.py` → files in `cards/`.
+- Quick visuals: `python test_hexagon.py` (writes `test_hexagon.png`).
+- Map parser check: `python test_new_format.py`.
+- Optional lint/format: `pip install black ruff && black . && ruff .`.
+
+## Coding Style & Naming Conventions
+- Python 3.9+; follow PEP 8; 4‑space indentation.
+- Names: snake_case for functions/vars, PascalCase for classes.
+- Filenames: `principia_*.py`, utilities `*_system.py`, data `karty_*.csv`.
+- Keep UI strings in Polish; preserve UTF‑8 diacritics in CSV and UI text.
+
+## Testing Guidelines
+- No formal test runner yet; use the scripts above as smoke tests.
+- If adding tests, prefer `pytest` under `tests/` with files named `test_*.py`.
+- Keep tests deterministic (seed `random`) and avoid network by default.
+- Verify `cards/` generation and GUI startup before submitting.
+
+## Commit & Pull Request Guidelines
+- Use Conventional Commits: `feat(ui): …`, `fix(hex): …`, `docs: …`.
+- PRs include: clear description, linked issue (if any), screenshots of UI changes, impacted CSVs, and run steps.
+- Do not commit generated images under `cards/` unless explicitly requested.
+- Update relevant docs (`instrukcja.md`, `testing.md`) when changing gameplay/networking.
+
+## Security & Configuration Tips
+- Networking defaults to `localhost:8888`; avoid exposing publicly in dev.
+- CSVs are trusted inputs for now; if changing columns, update all loaders.
+- Fonts: generator tries `arial.ttf` and falls back automatically; no config needed.

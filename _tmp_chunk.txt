@@ -1,0 +1,21 @@
+        """Gracz bierze grant"""
+        current_player = self.players[self.current_player_idx]
+
+        if current_player.current_grant is None:
+            current_player.current_grant = grant
+            self.available_grants.remove(grant)
+            self.log_message(f"Wziêto grant: {grant.name}")
+
+            # PrzejdŸ do nastêpnego gracza
+            self.next_player()
+            self.update_ui()
+        else:
+            messagebox.showwarning("Uwaga", "Masz ju¿ grant w tej rundzie!")
+
+    def enter_research_selection_mode(self):
+        """W³¹cza tryb selekcji badania do rozpoczêcia"""
+        current_player = self.players[self.current_player_idx]
+
+        if not current_player.hand_cards:
+            messagebox.showinfo("Info", "Brak kart badañ na rêku!")
+            return
